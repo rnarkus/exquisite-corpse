@@ -1,11 +1,11 @@
-Exquisite Corpse
+# Exquisite Corpse
 
-Group Members:
+## Group Members:
 
-Markus Hudobnik
-Olivia Pulick
-<<<<<<< HEAD
-Wylie Wells
-=======
-Erin Kean
->>>>>>> refs/remotes/origin/master
+### Markus Hudobnik
+
+### Olivia Pulick
+
+### Wylie Wells
+
+### Erin Kean
