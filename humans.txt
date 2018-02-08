@@ -1,0 +1,35 @@
+
+                            
+/* TEAM */                   
+Your title: 
+Markus Hudobnik
+Olivia Pulick
+Wylie Wells
+Erin Kean
+
+                            
+Site: firstname.lastname@colorado.edu
+                            
+Location: Boulder, United States of America.
+             
+                        [...]
+										
+/* THANKS */
+					
+Name: creative.colorado.edu/(~IDkey)/dev					
+                 
+                        [...]
+                                  
+/* SITE */
+                            
+Last update: 208/02/08 
+
+                            
+Standards: HTML5, CSS3.
+
+                            
+Components: N/A.
+
+                            
+Software: Software used for the development
+   
